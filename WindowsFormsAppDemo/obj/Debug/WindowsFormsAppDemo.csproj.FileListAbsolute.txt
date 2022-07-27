@@ -1,0 +1,10 @@
+C:\Users\kapun\source\repos\WebServiceDemo\WindowsFormsAppDemo\bin\Debug\WindowsFormsAppDemo.exe.config
+C:\Users\kapun\source\repos\WebServiceDemo\WindowsFormsAppDemo\bin\Debug\WindowsFormsAppDemo.exe
+C:\Users\kapun\source\repos\WebServiceDemo\WindowsFormsAppDemo\bin\Debug\WindowsFormsAppDemo.pdb
+C:\Users\kapun\source\repos\WebServiceDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.csproj.AssemblyReference.cache
+C:\Users\kapun\source\repos\WebServiceDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.Form1.resources
+C:\Users\kapun\source\repos\WebServiceDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.Properties.Resources.resources
+C:\Users\kapun\source\repos\WebServiceDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.csproj.GenerateResource.cache
+C:\Users\kapun\source\repos\WebServiceDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\kapun\source\repos\WebServiceDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.exe
+C:\Users\kapun\source\repos\WebServiceDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.pdb
